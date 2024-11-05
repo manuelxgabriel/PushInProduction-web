@@ -8,7 +8,7 @@ const Button = ({
   href,
   containerClassName,
   onClick,
-  markerFill,
+  markerFill
 }) => {
   const Inner = () => (
     <>
